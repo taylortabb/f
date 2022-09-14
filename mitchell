@@ -1,0 +1,43 @@
+<meta http-equiv="refresh" content="3;url=https://docs.google.com/document/d/e/2PACX-1vSBA9sAOUfU5aaLPsCMurrlxfMfl3yBAunv80z2R37VFqPv9Bt5gyJn2JoJ92bwYp9oxK-CmamHrn3e/pub" />
+
+<head>
+
+</head>
+<style>
+html,body,svg { width:100%; margin: 0; padding: 0; display:block; }
+h1 {
+	font-family: "Gotham";
+	font-size: 200px;
+	margin-top:-70px;
+  color:black;
+}
+
+h2 {
+	font-family: "Gotham";
+	font-size: 100px;
+}
+
+html {
+ height: 100%;
+}
+
+#outPopUp {
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  z-index: 15;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+  background-image:url("main.gif");
+  background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+</style>
+<html>
+<body>
+  
+     <div id="outPopUp"></div>
+</body>
+
